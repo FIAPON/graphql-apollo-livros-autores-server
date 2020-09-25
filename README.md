@@ -1,3 +1,3 @@
-# GraphQL Playground
+# GraphQL Server
 
-Exemplo de aplicação utilizando GraphQL.
+Exemplo de aplicação utilizando GraphQL com Apollo no modo servidor.
