@@ -1,0 +1,17 @@
+{
+  "name": "fiap-graphql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^2.18.1",
+    "graphql": "^15.3.0",
+    "graphql-depth-limit": "^1.1.0"
+  }
+}
